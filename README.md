@@ -1,4 +1,4 @@
-## 👋Hi, I am a Full Stack developer specializing in React.js, Next.js and Node.js Frameworks. I’m dedicated to creating innovative solutions that enhance user experience and drive business success.💪
+## 👋Hi, I am a React Native/Ionic/Flutter developer. I’m dedicated to creating innovative solutions that enhance user experience and drive business success.💪
 
 
 💡 A Pragmatic Programmer<br>
